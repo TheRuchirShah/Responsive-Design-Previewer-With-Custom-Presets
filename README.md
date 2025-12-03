@@ -64,16 +64,16 @@ Preview your website in mu
 
 
 ### 📁 Project Structure
-pgsql
-Copy code
+
+```
 ResponsiveDesignPreviewerWithCustomPresets/
 │── manifest.json
 │── popup.html
 │── popup.js
 │── styles.css
 │── icons/
-│── README.md
-
+└── README.md
+```
 
 ### 🧪 Development
 
