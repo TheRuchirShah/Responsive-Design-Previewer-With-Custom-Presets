@@ -66,7 +66,7 @@ Preview your website in mu
 ### 📁 Project Structure
 
 ```
-ResponsiveDesignPreviewerWithCustomPresets/
+.ResponsiveDesignPreviewerWithCustomPresets/
 │── manifest.json
 │── popup.html
 │── popup.js
