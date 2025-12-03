@@ -6,17 +6,17 @@ Preview your website in mu
 
 ### ⭐ Features
 
-- **Live Responsive Preview** — Instantly view how your page looks at different screen widths and heights.  
-- **Custom Device Presets** — Add, edit, and delete your own preset sizes.  
-- **One-Click Switching** — Quickly toggle between any defined presets.  
-- **Non-intrusive UI** — Clean popup interface that overlays without interrupting the web page.  
-- **Lightweight** — No external libraries; optimized for performance.
+- **Live Responsive Preview** - Instantly view how your page looks at different screen widths and heights.  
+- **Custom Device Presets** - Add, edit, and delete your own preset sizes.  
+- **One-Click Switching** - Quickly toggle between any defined presets.  
+- **Non-intrusive UI** - Clean popup interface that overlays without interrupting the web page.  
+- **Lightweight** - No external libraries; optimized for performance.
 
 
 ### 📦 Installation
 
 
-#### **Option 1 — Install from Browser Extension Store**  
+#### **Option 1 - Install from Browser Extension Store**  
 (Replace links when published)
 
 
@@ -24,7 +24,7 @@ Preview your website in mu
 - **Firefox Add-ons:** _Coming soon_
 
 
-#### **Option 2 — Install Manually (Developer Mode)**
+#### **Option 2 - Install Manually (Developer Mode)**
 
 
 ##### Chrome / Edge / Brave
