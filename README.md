@@ -4,7 +4,7 @@ A lightweight, developer-friendly browser extension that makes responsive design
 Preview your website in mu
 
 
-## ⭐ Features
+### ⭐ Features
 
 - **Live Responsive Preview** — Instantly view how your page looks at different screen widths and heights.  
 - **Custom Device Presets** — Add, edit, and delete your own preset sizes.  
@@ -13,10 +13,10 @@ Preview your website in mu
 - **Lightweight** — No external libraries; optimized for performance.
 
 
-## 📦 Installation
+### 📦 Installation
 
 
-### **Option 1 — Install from Browser Extension Store**  
+#### **Option 1 — Install from Browser Extension Store**  
 (Replace links when published)
 
 
@@ -24,10 +24,10 @@ Preview your website in mu
 - **Firefox Add-ons:** _Coming soon_
 
 
-### **Option 2 — Install Manually (Developer Mode)**
+#### **Option 2 — Install Manually (Developer Mode)**
 
 
-#### Chrome / Edge / Brave
+##### Chrome / Edge / Brave
 1. Download or clone the repository:
    ```bash
    git clone https://github.com/TheRuchirShah/Responsive-Design-Previewer-With-Custom-Presets.git
@@ -37,7 +37,7 @@ Preview your website in mu
 5. Select the project folder
 
 
-### Firefox
+#### Firefox
 1. Open about:debugging#/runtime/this-firefox
 2. Click Load Temporary Add-on
 3. Select the manifest.json file
