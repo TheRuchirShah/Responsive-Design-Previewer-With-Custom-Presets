@@ -45,24 +45,22 @@ Preview your website in mu
 
 ### 🚀 How to Use
 
-* Open any webpage you want to test.
-* Click the Responsive Design Previewer extension icon in your browser toolbar.
-* A popup appears with preset screen sizes.
-* Choose a preset or enter a custom width/height.
-* Click Apply to preview the page in the selected size.
-* Use the preview mode controls to:
-* Switch between presets
-* Modify sizes
-* Exit responsive mode
-* Managing Custom Presets
-* Open the extension popup.
-* Scroll to Custom Presets.
-* Add a preset by entering:
-* Name
-* Width
-* Height
-* Click Save
-* The new preset appears in the presets list.
+1. Open any webpage you want to test.
+2. Click the Responsive Design Previewer extension icon in your browser toolbar.
+3. A popup appears with preset screen sizes.
+4. Choose a preset or enter a custom width/height.
+5. Click Apply to preview the page in the selected size.
+6. Use the preview mode controls to:
+   * Switch between presets
+   * Modify sizes
+   * Exit responsive mode
+
+### ⚒ Managing Custom Presets
+1. Open the extension popup.
+2. Scroll to Custom Presets.
+3. Add a preset by entering (Name, Width, Height)
+4. Click Save
+5. The new preset appears in the presets list.
 
 
 ### 📁 Project Structure
