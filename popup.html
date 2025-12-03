@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Responsive Design Tester</title>
+<link rel="stylesheet" href="popup.css">
+</head>
+<body class="bg-gray-100 p-4 font-sans w-64">
+<h2 class="text-lg font-bold mb-2">Responsive Tester</h2>
+
+<select id="presetSelect" class="w-full mb-2 p-1 border rounded"></select>
+<button id="resizeBtn" class="w-full bg-blue-600 text-white p-1 rounded mb-2 hover:bg-blue-700">Resize</button>
+
+<h3 class="text-sm font-semibold mt-2">Custom Presets</h3>
+<input id="customName" type="text" placeholder="Preset Name" class="w-full p-1 mb-1 border rounded">
+<input id="customWidth" type="number" placeholder="Width" class="w-full p-1 mb-1 border rounded">
+<input id="customHeight" type="number" placeholder="Height" class="w-full p-1 mb-1 border rounded">
+<button id="addCustomBtn" class="w-full bg-green-600 text-white p-1 rounded hover:bg-green-700">Add Preset</button>
+</body>
+<script src="popup.js"></script>
+</html>
