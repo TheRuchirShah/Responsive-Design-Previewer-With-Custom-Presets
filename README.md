@@ -43,7 +43,7 @@ Preview your website in mu
 3. Select the manifest.json file
 
 
-🚀 How to Use
+### 🚀 How to Use
 
 * Open any webpage you want to test.
 * Click the Responsive Design Previewer extension icon in your browser toolbar.
@@ -65,7 +65,7 @@ Preview your website in mu
 * The new preset appears in the presets list.
 
 
-📁 Project Structure
+### 📁 Project Structure
 pgsql
 Copy code
 ResponsiveDesignPreviewerWithCustomPresets/
@@ -77,7 +77,7 @@ ResponsiveDesignPreviewerWithCustomPresets/
 │── README.md
 
 
-🧪 Development
+### 🧪 Development
 
 * Make your changes.
 * Reload the extension from:
@@ -86,6 +86,6 @@ ResponsiveDesignPreviewerWithCustomPresets/
 * Test functionality.
 
 
-🤝 Contributing
+### 🤝 Contributing
 Contributions, issues, and feature requests are welcome.
 Feel free to open an issue or submit a pull request.
